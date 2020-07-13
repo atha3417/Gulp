@@ -1,0 +1,7 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: rgba(21, 89, 241, .4);
+
+body {
+  	font: 20px $font-stack;
+  	color: $primary-color;
+}
