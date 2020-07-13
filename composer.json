@@ -1,0 +1,13 @@
+{
+    "name": "atha/gulp",
+    "description": "Just JavaScript - gulp code",
+    "keywords": ["task-runner", "gulp", "js", "javascript"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ]
+}
